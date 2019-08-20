@@ -1,0 +1,259 @@
+/* * {border:1px solid red}  */
+
+h1 {
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 2em;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: 2px;
+    text-decoration: none;
+    line-height: 1.2em;
+    margin: 50px auto;
+}
+h5 {
+    color:#ff8a9e !important;
+    font-family: 'Raleway', sans-serif !important;
+}
+h4 {
+    font-family: 'Raleway', sans-serif !important;
+    float: right;
+}
+p {
+    font-family: 'Raleway', sans-serif !important;
+    font-weight: 900;
+    line-height: 1.6em;
+    font-size: 120%;
+   
+}
+
+html {
+    background-color: pink;
+}
+
+section{
+    margin: 1em;
+    text-align: left;
+}
+
+
+.realConstituent{
+    font-size: 110%;
+   
+}
+
+.representative
+{
+    text-align: center;
+    border-style: dotted;
+}
+.testimonials
+{
+    text-align: center;
+    display: block;
+}
+
+
+.bio {
+    width: 50%;
+    border-style: dotted;
+}
+
+.johnRoseImg {
+    width: 35%;
+    float: left;
+    margin: 28px 30px 60px 30px;
+    
+}
+
+.around-the-whole-dude {
+    margin-top: 6em;
+   text-align: center;
+    overflow: auto;
+    background-color: rgb(255, 255, 255);
+
+
+}
+
+.dude-wrapper{
+    width: 100%;
+    height: auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: pink;
+}
+.center-the-dude {
+    width: 65%;
+    margin: auto;
+}
+
+.john-rose-header {
+    margin-top: 30px;
+    clear: right;
+}
+
+
+.testimonial-div{
+text-align: center;
+display: block;
+}
+
+.rose-divider{
+    display: flex;
+    background-color: pink;
+    justify-content: center;
+    
+}
+
+.roses-down {
+    width: 50%;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-55%, -50%);
+}
+.dot-border {
+width: 40%;
+height: 0px;
+border-style: dotted;
+border-color: rgb(252, 222, 227);
+border-width: 0.8vw;
+border-bottom: none;
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+}
+
+.rose-wrapper-outside{
+   position: relative;
+    overflow: hidden;
+    padding-top: 25%;
+    width: 30%;
+    height: 0px;
+}
+
+.rose-wrapper-inside{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.around-the-whole-gir {
+    margin-top: 5em;
+   text-align: center;
+    overflow: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.gir-wrapper{
+    width: 100%;
+    height: auto;
+   display: flex;
+   justify-content: center;
+   background-color: rgb(255, 255, 255);
+}
+.center-the-gir {
+    width: 90%;
+    margin: auto;
+    border-style: dotted;
+    border-color: pink;
+     border-width: 5px;
+}
+
+.gir-header {
+    margin: 15px 0px 15px 10px;
+    clear: left;
+}
+
+.girImage{
+    float: right;
+    width: 35%;
+}
+
+
+
+.around-the-whole-beemo {
+    margin-top: 5em;
+   text-align: center;
+    overflow: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.beemo-wrapper{
+    width: 100%;
+    height: auto;
+   display: flex;
+   justify-content: center;
+   background-color: rgb(255, 255, 255);
+}
+.center-the-beemo {
+    width: 70%;
+    margin: auto;
+    border-style: dotted;
+    border-color: pink;
+     border-width: 5px;
+}
+
+.beemo-header {
+    margin: 15px 15px 15px 0px;
+    clear: right;
+}
+
+.beemoImage{
+    float: left;
+    width: 40%;
+}
+
+.around-the-whole-baymax {
+    margin-top: 5em;
+text-align: center;
+    overflow: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.baymax-wrapper{
+    width: 100%;
+    height: auto;
+display: flex;
+justify-content: center;
+background-color: rgb(255, 255, 255);
+}
+.center-the-baymax {
+    width: 60%;
+    margin: auto;
+    border-style: dotted;
+    border-color: pink;
+    border-width: 5px;
+}
+
+.baymax-header {
+    margin: 15px 0px 15px 15px;
+    clear: left;
+}
+
+.baymaxImage{
+    float: right;
+    width: 40%;
+}
+
+.rick-outside{
+display:flex;
+justify-content: center;
+}
+
+.rick-inside{
+width: 35%;
+border-style: dotted;
+border-color: pink;
+border-width: 5px;
+}
+
+.rick-article{
+    text-align: center;
+    display: block;
+}
